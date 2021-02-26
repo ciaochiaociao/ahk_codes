@@ -1,0 +1,9 @@
+A. 寫GUI程式碼的程式
+v1:Send
+v2:
+-FileAppend
+-輸入>所有按鈕
+-輸出>BtnFtn、BtnGui
+B. 程式碼生成
+v1:File Object
+v2:#include
